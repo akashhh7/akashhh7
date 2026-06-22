@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Akash Maurya</h1>
+<h1 align="center">Hi, Akash here...</h1>
 <h3 align="center">A learner in the field of tech.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashhh7" alt="akashhh7" /></a> </p>
 
-- 📫 How to reach me **4126akash@gmail.com**
+- 📫 **4126akash@gmail.com**
 
-- ⚡ Fun fact **The Bug was real**
+- ⚡ **The Bug was real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
