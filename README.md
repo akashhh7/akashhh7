@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Akash.</h1>
 
 <p align="center"><em>student :3</em></p>
-<p align="center"><small><em>soewhere between logic and creativity</em></small></p>
+<p align="center"><small><em>somewhere between logic and creativity</em></small></p>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 	<a href="https://www.instagram.com/akashhh_m7">instagram</a>
 </p>
 
-<br />
+
 
 <table align="center" width="90%" border="1">
 <tr>
@@ -26,17 +26,15 @@
 <h3>currently</h3>
 <p>
 strengthening C++ fundamentals | exploring
-competitive programming | learning open source contibutions
+competitive programming | getting involved in open source contibutions
 </p>
-
-<br />
 
 <h3>learning</h3>
 
 <p>
-<code>C++</code> ·
+<code>c++</code> ·
 <code>problem-solving</code> ·
-<code>Linux</code> ·
+<code>linux</code> ·
 <code>web development</code>
 </p>
       
@@ -46,8 +44,6 @@ competitive programming | learning open source contibutions
 </table>
 
 <p align="center"><small>where logic meets competition</small></p>
-
-<br />
 
 <p align="center">
 	<a href="https://leetcode.com/akashhh7">leetcode</a>
