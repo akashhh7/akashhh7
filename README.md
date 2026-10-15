@@ -2,8 +2,6 @@
 	<img src="./image.png" alt="Anime-inspired illustration of two characters in a classroom" width="100%"/>
 </p>
 
-<br />
-
 <h1 align="center">Hi, I'm Akash.</h1>
 
 <p align="center"><em>student :3</em></p>
